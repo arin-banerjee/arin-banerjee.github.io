@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Arindam Banerjee
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Arindam Banerjee
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Arindam
+last_name: Banerjee
 
 # Status emoji
 status:
