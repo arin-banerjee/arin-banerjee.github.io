@@ -3,7 +3,7 @@
 title: Arindam Banerjee
 
 # Name pronunciation (optional)
-name_pronunciation: Arindam Banerjee
+# name_pronunciation: Arindam Banerjee
 
 # Full name (for SEO)
 first_name: Arindam
@@ -11,7 +11,7 @@ last_name: Banerjee
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 💡
 
 # Is this the primary user of the site?
 superuser: true
@@ -31,31 +31,32 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:arindam.banerjee14@yahoo.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://x.com/arinbanerjee14
   - icon: brands/instagram
     url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/arin-banerjee
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/arindambanerjee1/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=Ytht_3IAAAAJ&hl=en
   - icon: academicons/orcid
     url: https://orcid.org/
 
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Machine Learning
+  - Generative AI
+  - Natural Language Processing
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: M.Tech in Computer Science and Engineering
+    institution: Vellore Institute of Technology, Vellore
+    date_start: 2012-06
+    date_end: 2014-05
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
