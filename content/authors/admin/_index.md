@@ -57,56 +57,64 @@ education:
     institution: Vellore Institute of Technology, Vellore
     date_start: 2012-06-01
     date_end: 2014-05-01
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+    #summary: |
+    #  Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE #conferences with the contributions being published in 2 Springer journals.
+    #button:
+    #  text: 'Read Thesis'
+    #  url: 'https://example.com'
+  #- area: MEng Artificial Intelligence
+  #  institution: Massachusetts Institute of Technology
+  #  date_start: 2016-01-01
+  #  date_end: 2020-12-31
+  #  summary: |
+  #    GPA: 3.8/4.0
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
+  #    Courses included:
+  #    - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #    - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #    - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: B.Tech in Electronics and Telecommunication Engineering
+    institution: RTM Nagpur University
+    date_start: 2005-08-01
+    date_end: 2009-05-31
+    #summary: |
+    #  GPA: 3.4/4.0
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #  Courses included:
+    #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Manager - Data & AI Consulting
+    company_name: Ernst & Young GDS
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2021-12-08
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      - Spearheaded the development and optimization of graph-based Retrieval-Augmented Generation (RAG) techniques for Large Language Models (LLMs), enhancing the accuracy and efficiency of information retrieval processes.
+      - Engineered and integrated Neo4J knowledge graphs with LLMs, enabling advanced semantic understanding and context-aware responses in generative AI applications.
+      - Designed and implemented hybrid LLM architectures, combining diverse AI models to leverage their strengths and improve overall system performance.
+      - Led research initiatives in generative AI, contributing to cutting-edge development in natural language processing and machine learning.
+      - Collaborated with cross-functional teams to translate complex technical concepts into actionable solutions, driving impactful outcomes for various AI-driven projects.
+  - position: Data Scientist
+    company_name: Ericsson
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2014-12-12
+    date_end: 2021-11-19
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Addressed complex business problems through Statistical Learning methods that include deep learning based computer vision and text analytics techniques, end-to-end Machine Learning workflow design, data wrangling, data cleaning, feature engineering, development of robust Supervised and Unsupervised Machine Learning algorithms, optimization and deployment of predictive models as Flask APIs or in docker. 
+      - Worked extensively on clustering, classification, regression, predictive modeling on big data using Spark (Scala and Python - PySpark), multivariate analysis, statistical analysis using IoT, LTE, 4G and 5G data. Expert in 5G core network domain, 5G Service Based Architecture, IoT, Edge and Fog computing .
+      - Drones capture movement of traffic images at different locations of a city and images are sent in stream to edge servers. 
+      - Developed CNN based Deep Neural Network to detect high traffic at edge servers. Consolidated result is sent to Cloud to take further decisions and alarm generation.
+      - Developed parser for extracting user events from moderate to massive, semi-structured text data coming from highly distributed, third party network adaptors. 
+      - Developed NLP and Machine Learning algorithms for analyzing and predicting performance degradation from user event data. Deployed the model in production.
+      - Developed Machine Learning models to predict SLA breach of support tickets that reduced actual SLA breach by 35%. 
+      - Developed nine patent-pending solutions as individual inventor. 
+      - End-to- end designing and implementation of statistical modelling, advanced data science solutions and products from acquiring business needs to final delivery, developing predictive models for field service operations for major telecom operators, predicting faults in LTE networks and new product demand forecasting.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -117,7 +125,7 @@ skills:
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: Machine Learning
         description: ''
         percent: 100
         icon: chart-bar
@@ -129,7 +137,7 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Painting
         description: ''
         percent: 60
         icon: person-simple-walk
@@ -145,10 +153,10 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Bengali
+    percent: 100
+  - name: Hindi
+    percent: 90
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -184,4 +192,8 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am experienced in innovative technical consulting, research and development, statistical modelling, systems design, and application development. Currently, I work at EY as a Manager - AI Consulting with a passion for turning raw data into products, actionable insights, and meaningful stories. I lead several cross-geographical client engagements and deliveries in analytics and AI. 
+
+My substantial involvement in the innovation labs and CoEs has formed my instinct for innovation. I have filed ten patents till now. 
+
+I am comfortable in manipulating and analyzing massive, complex, high-dimensional data from heterogeneous sources. I have architected and deployed data-driven AI pipelines to cater to both data and AI requirements of the business and to help organizations succeed in their data endeavors without getting caught up in the hype. I have the ability to succeed in both collaborative and independent work environments with strong communication and data presentation skills to effectively communicate with both business and technical teams. 
