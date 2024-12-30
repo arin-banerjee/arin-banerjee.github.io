@@ -55,8 +55,8 @@ interests:
 education:
   - area: M.Tech in Computer Science and Engineering
     institution: Vellore Institute of Technology, Vellore
-    date_start: 2012-06
-    date_end: 2014-05
+    date_start: 2012-06-01
+    date_end: 2014-05-01
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
