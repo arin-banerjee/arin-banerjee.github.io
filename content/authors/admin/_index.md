@@ -3,7 +3,7 @@
 title: Arindam Banerjee
 
 # Name pronunciation (optional)
-# name_pronunciation: Arindam Banerjee
+name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Arindam
